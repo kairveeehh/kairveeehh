@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kairvee Vaswani</h1>
 <h3 align="center">A passionate competitive programmer and frontend developer from India</h3>
 
-- 🔭 I’m currently working on **backend and web3.**
+- 🔭 I’m currently a fresher at **ABV-IIITM.**
 
 - 🌱 I’m currently learning **backend , APIs and blockchain.**
 
